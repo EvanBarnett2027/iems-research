@@ -1,0 +1,5 @@
+1. Install packages from working_packages.txt
+
+2. Do: `pip install --no-deps -e . ` so that the virtual env recognizes oak as a package without trying to replace the working packages
+
+3. 
